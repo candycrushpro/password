@@ -10,7 +10,7 @@
 
 # Technologies used 
 
-* python ver 3.7.5
+* python 3.7.5
 
 # License
 
